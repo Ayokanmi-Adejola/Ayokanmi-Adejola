@@ -5,8 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayokanmi-adejola" alt="ayokanmi-adejola" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Open-Source projects**
-
+- 🔭 I'm currently working on improving my **coding skills**
+ 
+- 👯 I'm looking to collaborate on **innovative projects**
+  
+- 🌱 I'm currently learning **New technologies**
+  
+- 💬 Ask me about anything **Tech-related**
+  
 - 👨‍💻 Some of my projects are available at [https://ayokanmi-adejola-portfolio.netlify.app/](https://ayokanmi-adejola-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@adejolaayokanmi90](https://medium.com/@adejolaayokanmi90)
