@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayokanmi-adejola&label=Visitors&color=0e75b6&style=flat" alt="ayokanmi-adejola" /> </p>
 
 
-- 🔭 I'm currently working on improving my **coding skills**
+- 🔭 I'm currently working on improving my **Coding skills**
  
-- 👯 I'm looking to collaborate on **innovative projects**
+- 👯 I'm looking to collaborate on **Innovative projects**
   
 - 🌱 I'm currently learning **New technologies**
   
