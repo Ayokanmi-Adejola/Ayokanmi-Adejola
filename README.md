@@ -5,21 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayokanmi-adejola" alt="ayokanmi-adejola" /></a> </p>
 
-```
-- 🔭 I'm currently working on improving my **coding skills**
+
+                                                          - 🔭 I'm currently working on improving my **coding skills**
  
-- 👯 I'm looking to collaborate on **innovative projects**
+                                                          - 👯 I'm looking to collaborate on **innovative projects**
   
-- 🌱 I'm currently learning **New technologies**
+                                                          - 🌱 I'm currently learning **New technologies**
   
-- 💬 Ask me about anything **Tech-related**
+                                                          - 💬 Ask me about anything **Tech-related**
   
-- 👨‍💻 Some of my projects are available at [https://ayokanmi-adejola-portfolio.netlify.app/](https://ayokanmi-adejola-portfolio.netlify.app/)
+                                                          - 👨‍💻 Some of my projects are available at [https://ayokanmi-adejola-portfolio.netlify.app/](https://ayokanmi-adejola-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@adejolaayokanmi90](https://medium.com/@adejolaayokanmi90)
+                                                          - 📝 I regularly write articles on [https://medium.com/@adejolaayokanmi90](https://medium.com/@adejolaayokanmi90)
 
-- 📫 Get in touch **adejolaayokanmi90@gmail.com**
-```
+                                                          - 📫 Get in touch **adejolaayokanmi90@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
