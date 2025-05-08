@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayokanmi-adejola&label=Visitors&color=0e75b6&style=flat" alt="ayokanmi-adejola" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayokanmi-adejola" alt="ayokanmi-adejola" /></a> </p>
-
 
 - 🔭 I'm currently working on improving my **coding skills**
  
@@ -19,6 +17,7 @@
 - 📝 I regularly write articles on [https://medium.com/@adejolaayokanmi90](https://medium.com/@adejolaayokanmi90)
 
 - 📫 Get in touch **adejolaayokanmi90@gmail.com**
+  
 
 
 <h3 align="left">Connect with me:</h3>
