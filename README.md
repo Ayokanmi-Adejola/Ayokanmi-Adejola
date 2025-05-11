@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayokanmi Adejola</h1>
-<h3 align="center">A passionate developer crafting elegant, high-performance, and accessible web applications using cutting-edge technologies.</h3>
+<h3 align="center">A passionate developer crafting elegant, high-performant, and accessible web applications using cutting-edge technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayokanmi-adejola&label=Visitors&color=0e75b6&style=flat" alt="ayokanmi-adejola" /> </p>
 
