@@ -12,7 +12,7 @@
   
 - 💬 Ask me about anything **Tech-related**
   
-- 👨‍💻 Some of my projects are available at [https://ayokanmi-adejola-portfolio.netlify.app/](https://ayokanmi-adejola-portfolio.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://ayokanmi-adejola.netlify.app/](https://ayokanmi-adejola-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@adejolaayokanmi90](https://medium.com/@adejolaayokanmi90)
 
