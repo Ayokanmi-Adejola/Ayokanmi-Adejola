@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ayokanmi Adejola</h1>
 <h3 align="center">Passionate about building elegant, performant, and accessible web applications using modern technologies.</h3>
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=ayokanmi-adejola&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 
 ### 🚀 About Me
 
-- 🔭 Currently sharpening my **coding and problem-solving skills**
+- 🔭 Currently sharpening my **Coding and problem-solving skills**
   
-- 👯 Open to collaborating on **innovative and impactful projects**
+- 👯 Open to collaborating on **Innovative and impactful projects**
   
-- 🌱 Continuously exploring **new technologies and tools**
+- 🌱 Continuously exploring **New technologies and tools**
   
-- 💬 Ask me anything **tech-related — I love sharing and learning**
+- 💬 Ask me anything **Tech-related — I love learning and sharing**
   
-- 👨‍💻 Explore my work: [Portfolio Website](https://ayokanmi-adejola-portfolio.netlify.app/)
+- 👨‍💻 Explore some of my work [@ayokanmiadejolaportfolio.com](https://ayokanmi-adejola-portfolio.netlify.app/)
   
-- 📝 I write tech blogs on [Medium](https://medium.com/@adejolaayokanmi90)
+- 📝 I write tech blogs on [Medium.com@ayokanmiadejola](https://medium.com/@adejolaayokanmi90)
   
 - 📫 Reach me at **adejolaayokanmi90@gmail.com**
 
