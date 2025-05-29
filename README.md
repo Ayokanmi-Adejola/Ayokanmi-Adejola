@@ -14,7 +14,7 @@
   
 - 🌱 Continuously exploring **New technologies and tools**
   
-- 💬 Ask me anything **Tech-related — I love learning and sharing**
+- 💬 Ask me anything **Tech-related "I love learning and sharing"**
   
 - 👨‍💻 Explore some of my work [@ayokanmiadejolaportfolio.com](https://ayokanmi-adejola-portfolio.netlify.app/)
   
