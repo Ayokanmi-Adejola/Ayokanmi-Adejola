@@ -90,6 +90,6 @@
 
 ---
 
-### ☕ Support Me
+### ☕ Support My Work
 
 <p><a href="https://buymeacoffee.com/ayokanmi_adejola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayokanmi_adejola" /></a><a href="https://ko-fi.com/ayokanmi_adejola"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ayokanmi_adejola" /></a></p>
