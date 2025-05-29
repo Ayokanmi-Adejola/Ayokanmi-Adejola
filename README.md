@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayokanmi Adejola</h1>
 <h3 align="center">Passionate about building elegant, performant, and accessible web applications using modern technologies.</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ayokanmi-adejola&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -92,11 +92,4 @@
 
 ### ☕ Support Me
 
-<p>
-  <a href="https://buymeacoffee.com/ayokanmi_adejola">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/ayokanmi_adejola">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi Support" />
-  </a>
-</p>
+<p><a href="https://buymeacoffee.com/ayokanmi_adejola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayokanmi_adejola" /></a><a href="https://ko-fi.com/ayokanmi_adejola"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ayokanmi_adejola" /></a></p>
