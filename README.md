@@ -14,7 +14,7 @@
   
 - 💬 Ask me anything **Tech-related "I love learning and sharing"**
   
-- 👨‍💻 Explore some of my work [@ayokanmiadejolaportfolio.com](https://ayokanmi-adejola-portfolio.netlify.app/)
+- 👨‍💻 Explore some of my work [@ayokanmiadejolaportfolio.com](https://ayokanmi-adejola.netlify.app/)
   
 - 📝 I write tech blogs on [Medium.com@ayokanmiadejola](https://medium.com/@adejolaayokanmi90)
   
