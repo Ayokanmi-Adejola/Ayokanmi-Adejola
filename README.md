@@ -19,7 +19,7 @@
   
 - 📝 I write tech blogs on [![Medium](https://img.shields.io/badge/Medium-@adejolaayokanmi90-1DA1F2?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adejolaayokanmi90)
     
-- 📫 Reach me at   [![Email](https://img.shields.io/badge/Email-adejolaayokanmi90%40gmail.com-red?style=flat-square&logo=gmail)](adejolaayokanmi90@gmail.com)
+- 📫 Reach me at   [![Email](https://img.shields.io/badge/Email-adejolaayokanmi90%40gmail.com-red?style=flat-square&logo=gmail)](mailto:adejolaayokanmi90@gmail.com)
 
 
 ---
