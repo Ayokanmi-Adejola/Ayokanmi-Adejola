@@ -14,11 +14,13 @@
   
 - 💬 Ask me anything **Tech-related "I love learning and sharing"**
   
-- 👨‍💻 Explore some of my work [**@ayokanmi_adejola-portfolio_website**](https://ayokanmi-adejola.netlify.app/)
+- 👨‍💻 Explore some of my work at [![Portfolio](https://img.shields.io/badge/Portfolio-Ayokanmi_Adejola-green?style=flat-square&logo=netlify)](https://ayokanmi-adejola-portfolio.netlify.app/)
+
   
-- 📝 I write tech blogs on [**Medium.com@ayokanmiadejola**](https://medium.com/@adejolaayokanmi90)
-  
-- 📫 Reach me at **adejolaayokanmi90@gmail.com**
+- 📝 I write tech blogs on [![Medium](https://img.shields.io/badge/Medium-@adejolaayokanmi90-1DA1F2?style=flat-square&logo=medium&logoColor=white)](https://medium.com/adejolaayokanmi90)
+    
+- 📫 Reach me at   [![Email](https://img.shields.io/badge/Email-adejolaayokanmi90%40gmail.com-red?style=flat-square&logo=gmail)](mailto:adejolaayokanmi90@gmail.com)
+
 
 ---
 
