@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayokanmi Adejola</h1>
 <h3 align="center">Passionate about building elegant, performant, and accessible web applications using modern technologies.</h3>
 
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ayokanmi-adejola&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
