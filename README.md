@@ -30,14 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayokanmi-adejola&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ### ☕ Support My Work
 
-<p><a href="https://buymeacoffee.com/ayokanmi_adejola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayokanmi_adejola" /></a><a href="https://ko-fi.com/ayokanmi_adejola"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ayokanmi_adejola" /></a></p>
+<p><a href="https://buymeacoffee.com/ayokanmi_adejola"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayokanmi_adejola" /></a><a href="https://ko-fi.com/ayokanmi_adejola"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ayokanmi_adejola" /></a></p>
