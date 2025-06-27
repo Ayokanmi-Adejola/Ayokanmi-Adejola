@@ -9,7 +9,7 @@
   
 - 🌱 Continuously exploring **New technologies and tools**
   
-- 💬 Ask me anything **Tech-related {I love learning and sharing}**
+- 💬 Ask me anything **Tech-related {"I love learning and sharing"}**
   
   
 - 📝 I write tech blogs on [![Medium](https://img.shields.io/badge/Medium-@adejolaayokanmi90-1DA1F2?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adejolaayokanmi90)
