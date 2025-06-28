@@ -12,9 +12,8 @@
 - 💬 Ask me anything **Tech-related {"I love learning and sharing"}**
   
   
-- 📝 I write tech blogs on [![Medium](https://img.shields.io/badge/Medium-@adejolaayokanmi90-1DA1F2?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adejolaayokanmi90)
+- 📝 I write tech blogs on [![Medium](https://img.shields.io/badge/Medium.com-@adejolaayokanmi90-1DA1F2?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adejolaayokanmi90)
     
-- 📫 Reach me at   [![Email](https://img.shields.io/badge/Email-adejolaayokanmi90%40gmail.com-red?style=flat-square&logo=gmail)](mailto:adejolaayokanmi90@gmail.com)
 
 ---
 
