@@ -2,7 +2,8 @@
 <h3 align="center">Passionate about building elegant, performant, and accessible web applications using modern technologies.</h3>
 
 
----
+## 👀 About Me
+
 - 🔭 Currently sharpening my **Coding and problem-solving skills**
   
 - 👯 Open to collaborating on **Innovative and impactful projects**
