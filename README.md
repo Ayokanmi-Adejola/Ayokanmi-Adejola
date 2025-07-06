@@ -8,7 +8,7 @@
   
 - 👯 Open to collaborating on **Innovative and impactful projects**
   
-- 🌱 Continuously exploring **New tools and technology**
+- 🌱 Continuously exploring **New tools and technologies**
   
 - 💬 Ask me anything **Tech-related{"I love learning and sharing"}**
   
