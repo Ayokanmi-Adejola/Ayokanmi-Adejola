@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayokanmi Adejola</h1>
 <h3 align="center">Passionate about building elegant, performant, and accessible web applications using modern technologies</h3>
 
+---
 
 ### 👤 About Me
 
@@ -16,7 +17,7 @@
 - 📝 I write tech blogs on    [ ![Medium](https://img.shields.io/badge/Medium.com-@adejolaayokanmi90-1DA1F2?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adejolaayokanmi90)
     
 
-
+---
 
 ### 🛠️ Tech Stack & Tools
 
