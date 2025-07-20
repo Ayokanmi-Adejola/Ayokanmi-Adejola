@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayokanmi Adejola</h1>
 <h3 align="center">Passionate about building elegant, performant, and accessible web applications using modern technologies</h3>
 
----
+
 
 ### 👤 About Me
 
