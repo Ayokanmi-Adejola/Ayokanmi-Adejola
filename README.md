@@ -3,7 +3,6 @@
 
 
 
-### 👤 About Me
 
 - 🔭 Currently sharpening my **Coding and problem-solving skills**
   
