@@ -8,7 +8,7 @@
   
 - 👯 Open to collaborating on innovative and impactful projects that aim to solve real-world problems and push the boundaries of technology.
   
-- 🌱 Continuously exploring new tools and technologies to stay at the forefront of the ever-evolving tech landscape.
+- 🌱 Continuously exploring new tools and technologies to stay at the forefront of the ever-evolving technology landscape.
   
 - 💬 Ask me anything tech-related! I love learning new things and sharing my knowledge
   
