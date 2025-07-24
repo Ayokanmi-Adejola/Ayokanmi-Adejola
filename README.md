@@ -12,8 +12,8 @@
   
 - 💬 Ask me anything tech-related! I love learning and sharing my knowledge, so don't hesitate to reach out with questions.
   
-- 📝 I write tech blogs on    [ ![Medium](https://img.shields.io/badge/Medium.com-@adejolaayokanmi90-1DA1F2?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adejolaayokanmi90)
-    
+- 📝 I write tech blogs on [ ![Medium](https://img.shields.io/badge/Medium.com-I_share_insights_on_frontend_development,_Python_tips,_career_growth_in_tech,_latest_industry_trends-green?style=flat-square&logo=medium)](https://medium.com/@adejolaayokanmi90)
+
 
 ---
 
