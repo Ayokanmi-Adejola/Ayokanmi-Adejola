@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Currently sharpening my coding and problem-solving skills through consistent practice and tackling complex real-world challenges.
+- 🔭 Currently sharpening my coding and problem-solving skills through consistent practice & tackling complex real-world challenges.
   
 - 👯 Open to collaborating on **Innovative and impactful projects**
   
