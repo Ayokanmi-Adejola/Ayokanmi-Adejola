@@ -10,8 +10,7 @@
   
 - 🌱 Continuously exploring new tools and technologies to stay at the forefront of the ever-evolving tech landscape.
   
-- 💬 Ask me anything **Tech-related"I love learning and sharing"**
-  
+- 💬 Ask me anything tech-related! I love learning new things and sharing my knowledge
   
 - 📝 I write tech blogs on    [ ![Medium](https://img.shields.io/badge/Medium.com-@adejolaayokanmi90-1DA1F2?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adejolaayokanmi90)
     
