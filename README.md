@@ -12,7 +12,7 @@
   
 - 💬 Ask me anything tech-related! I love learning and sharing my knowledge, so don't hesitate to reach out with questions.
   
-- 📝 I write tech blogs on Medium where i share insights on Web development, growth in tech and latest industry trends
+- 📝 I write tech blogs on Medium.com where i share insights on Web development, growth in tech and latest industry trends
 
 
 ---
