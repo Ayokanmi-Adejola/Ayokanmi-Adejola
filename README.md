@@ -6,9 +6,9 @@
 
 - 🔭 Currently sharpening my coding and problem-solving skills through consistent practice and tackling real-world challenges.
   
-- 👯 Open to collaborating on **Innovative and impactful projects**
+- 👯 Open to collaborating on innovative and impactful projects that aim to solve real-world problems and push the boundaries of technology.
   
-- 🌱 Continuously exploring **New tools and technologies**
+- 🌱 Continuously exploring new tools and technologies to stay at the forefront of the ever-evolving tech landscape.
   
 - 💬 Ask me anything **Tech-related"I love learning and sharing"**
   
