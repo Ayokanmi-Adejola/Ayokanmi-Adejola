@@ -15,7 +15,7 @@
 - 📝 I write tech blogs on Medium.com where i share insights on Web development, growth in tech and latest industry trends
 
 
----
+
 
 ### 🛠️ Tech Stack & Tools
 
