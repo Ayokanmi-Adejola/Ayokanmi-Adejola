@@ -12,7 +12,7 @@
   
 - 💬 Ask me anything tech-related! I love learning and sharing my knowledge, so don't hesitate to reach out with questions.
   
-- 📝 I write tech blogs on [![GitHub](https://img.shields.io/badge/MEDIUM-black?style=flat-square&logo=MEDIUM)](https://medium.com/@adejolaayokanmi90)
+- 📝 I write tech blogs on [![GitHub](https://img.shields.io/badge/Medium.com-black?style=flat-square&logo=MEDIUM)](https://medium.com/@adejolaayokanmi90)
  where i share insights on Web development, growth in tech and latest industry trends.
 
 
