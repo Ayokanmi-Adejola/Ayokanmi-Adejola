@@ -4,13 +4,13 @@
 
 
 
-- 🔭 Currently sharpening my coding and problem-solving skills through consistent practice and tackling real-world challenges.
+- 🔭 Currently sharpening my coding and problem-solving skills through consistent practice and tackling real-world challenges
   
-- 👯 Open to collaborating on innovative projects that aim to solve real-world problems and push the boundaries of technology.
+- 👯 Open to collaborating on innovative projects that aim to solve real-world problems and push the boundaries of technology
   
-- 🌱 Continuously exploring latest tools and technologies to stay at the forefront of the ever-evolving technology landscape.
+- 🌱 Continuously exploring latest tools and technologies to stay at the forefront of the ever-evolving technology landscape
   
-- 💬 Ask me anything tech-related! I love learning and sharing my knowledge, so don't hesitate to reach out with questions.
+- 💬 Ask me anything tech-related! I love learning and sharing my knowledge, so don't hesitate to reach out with questions
   
 - 📝 I write tech blogs on [![GitHub](https://img.shields.io/badge/Medium.com-gray?style=flat-square&logo=MEDIUM)](https://medium.com/@adejolaayokanmi90)
  where i share insights on Web development, growth in tech and latest industry trends.
