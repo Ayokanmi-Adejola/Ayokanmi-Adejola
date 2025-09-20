@@ -14,7 +14,7 @@
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png"
       alt="Ayokanmi Adejola"
-      height="10"
+      height="13"
       width="95"
   /></a> where i share insights on Web development, growth in tech and latest industry trends
 
