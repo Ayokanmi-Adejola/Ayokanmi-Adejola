@@ -9,7 +9,14 @@
   
 💬 Ask me anything tech-related! I love learning and sharing my knowledge, so don't hesitate to reach out with questions
   
-📝 I write tech blogs on [![GitHub](https://img.shields.io/badge/Medium-gray?style=flat-square&logo=MEDIUM)](https://medium.com/@adejolaayokanmi90)
+📝 I write tech blogs on <a href="https://medium.com/@adejolaayokanmi90" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png"
+      alt="Ayokanmi Adejola"
+      height="14"
+      width="100"
+  /></a>
  where i share insights on Web development, growth in tech and latest industry trends
 
 
