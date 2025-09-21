@@ -16,7 +16,7 @@
       alt="Ayokanmi Adejola"
       height="20"
       width="100"
-  /></a> where i share insights on Web development, growth in tech and latest industry trends
+  /></a> where i share insights on Software development, growth in tech and latest industry trends
 
 
 
