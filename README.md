@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayokanmi Adejola</h1>
 <h3 align="center">Passionate about building elegant and accessible web applications using modern technologies</h3>
 
-🔭 Currently sharpening my coding and problem-solving skills through consistent practice and tackling real-world challenges
+🔭 I'm Currently sharpening my coding and problem-solving skills through consistent practice and tackling of real-world challenges
   
 👯 Open to collaborating on innovative projects that aim to solve real-world problems and push the boundaries of technology
   
