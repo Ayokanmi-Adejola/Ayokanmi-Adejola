@@ -7,7 +7,7 @@
   
 🌱 Continuously exploring latest tools and technologies to stay at the forefront of the ever-evolving technology landscape
   
-💬 Ask me anything tech-related! I love learning and sharing my knowledge, so don't hesitate to reach out with questions
+💬 Ask me anything tech-related! I enjoy learning, sharing knowledge, and helping others grow, so don't hesitate to reach out with questions
   
 📝 I write tech blogs on <a href="https://medium.com/@adejolaayokanmi90" target="blank"
     ><img
