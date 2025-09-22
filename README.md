@@ -3,7 +3,7 @@
 
 🔭 I'm Currently sharpening my coding and problem-solving skills through consistent practice and tackling of real-world challenges
   
-👯 Open to collaborating on innovative projects that aim to solve real-world problems and push the boundaries of technology
+👯 I'm Open to collaborating on innovative projects that aim to solve real-world problems and push the boundaries of technology
   
 🌱 Continuously exploring latest tools and technologies to stay at the forefront of the ever-evolving technology landscape
   
