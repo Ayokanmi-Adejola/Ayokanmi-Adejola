@@ -1,4 +1,4 @@
-<h1 align="center">Hi    <img src="hullo.gif" alt="yellow smily face :)" width=50>, I'm Ayokanmi Adejola</h1>
+<h1 align="center">Hi    <img src="hullo.gif" alt="yellow smily face :)" width=40>, I'm Ayokanmi Adejola</h1>
 <h3 align="center">Passionate about building elegant and accessible web applications using modern technologies</h3>
 
 🔭 I'm Currently sharpening my coding and problem-solving skills through consistent practice and tackling of real-world challenges
