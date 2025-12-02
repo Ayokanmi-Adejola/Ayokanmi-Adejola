@@ -16,7 +16,7 @@
       alt="Medium.com"
       height="15"
       width="112"
-  /></a> where i share insights on Software development, growth in tech and latest industry trends.
+  /></a>, where i share insights on Software development, growth in tech and latest industry trends.
 
 
 
