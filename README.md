@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="hullo.gif" alt="yellow smily face :)" width=50> I'm Ayokanmi Adejola</h1>
-<h2 align="center">I'm Passionate about building elegant and accessible web applications using modern technologies</h2>
+<h2 align="center">Passionate about building elegant and accessible web applications using modern technologies</h2>
 
 🔭 I'm Currently sharpening my coding and problem-solving skills through consistent practice and tackling of real-world challenges.
   
