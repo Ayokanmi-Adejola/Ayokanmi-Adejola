@@ -15,7 +15,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png"
       alt="Medium.com"
       height="15"
-      width="116"
+      width="115"
   /></a> where i share insights on Software development, growth in tech and latest industry trends
 
 
