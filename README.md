@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="hullo.gif" alt="yellow smily face :)" width=50> I'm Ayokanmi Adejola</h1>
-<h3 align="center">Specializing in robust, type-safe web applications using the Next.js and Node.js ecosystem.</h3>
+<h3 align="center">Specializing in end-to-end MERN stack development to build scalable, data-driven web applications</h3>
 
 🔭 I'm Currently sharpening my coding and problem-solving skills through consistent practice and tackling of real-world challenges
   
