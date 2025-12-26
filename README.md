@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="hullo.gif" width=55> I'm Ayokanmi Adejola</h1>
+<h1 align="center">Hi <img src="hullo.gif" width=51> I'm Ayokanmi Adejola</h1>
 
 <h3 align="center">Specializing in end-to-end MERN Stack development to build scalable, data-driven web applications.</h3>
 
