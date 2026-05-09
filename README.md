@@ -2,11 +2,11 @@
 
 <h3 align="center">Specializing in end to end MERN stack development to build scalable and data driven applications</h3>
 
-🔭 Currently sharpening my coding and problem-solving skills through consistent practice and tackling of real-world challenges.
+🔭 I'm Currently sharpening my coding and problem-solving skills through consistent practice and tackling of real-world challenges.
   
-👥 Open to collaborating on innovative projects that aim to solve real-world challenges and push the boundaries of technology.
+👥 I'm Open to collaborating on innovative projects that aim to solve real-world challenges and push the boundaries of technology.
   
-🌱 Continuously exploring latest tools, frameworks and technologies to stay at the forefront of the ever-evolving Tech landscape.
+🌱 I'm Continuously exploring latest tools, frameworks and technologies to stay at the forefront of the ever-evolving Tech landscape.
   
 ### 🛠️ My Tech Stack & Tools
 
