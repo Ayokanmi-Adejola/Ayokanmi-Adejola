@@ -8,7 +8,7 @@
   
 🌱 I'm Continuously exploring latest tools, frameworks and technologies to stay at the forefront of the ever-evolving Tech landscape
   
-### 🛠️ *My Tech Stack & Tools*
+### 🛠️ My Tech Stack & Tools
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
