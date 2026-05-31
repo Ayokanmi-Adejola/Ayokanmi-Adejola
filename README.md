@@ -6,7 +6,7 @@
   
 👥 I'm open to collaborating on innovative projects that aim to solve real world challenges and push the boundaries of technology
   
-🌱 I'm continuously exploring latest tools, frameworks and technologies to stay at the forefront of the ever-evolving Tech landscape
+🌱 I'm continuously exploring latest tools, frameworks and technologies to stay at the forefront of the ever-evolving tech landscape
   
 ### 🛠️ My Tech Stack & Tools
 
