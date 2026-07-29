@@ -1,7 +1,7 @@
 *<h1 align="center"><img src="hullo.gif" width=51>Hi, I'm Ayokanmi Adejola</h1>*
 
 
-***< align="center">Specialising In End To End MERN Stack Development To Build Scalable Data Driven Web, Desktop and Mobile Applications</>***
+**Specialising In End To End MERN Stack Development To Build Scalable Data Driven Web, Desktop and Mobile Applications**
 
 🔭 I'm currently sharpening my coding and problem solving skills through consistent practice and tackling of real world challenges
   
