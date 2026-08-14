@@ -1,10 +1,7 @@
 *<h1 align="center"><img src="hullo.gif" width=51>Hi, I'm Ayokanmi Adejola</h1>*
-
-<!-- Animation Typing -->
-<p align="center">
+*<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=600&lines=Specialising+In+End+To+End+MERN+Stack+Development;To+Build+Scalable+Data+Driven;Web+,+Desktop+and+Mobile+Applications;"></a>
-</p>
-<!-- Animation Typing: END -->
+</p>*
 
 🔭 I'm currently sharpening my coding and problem solving skills through consistent practice and tackling of real world challenges
   
