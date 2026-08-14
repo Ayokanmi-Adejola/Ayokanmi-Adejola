@@ -1,6 +1,6 @@
 *<h1 align="center"><img src="hullo.gif" width=51>Hi, I'm Ayokanmi Adejola</h1>*
 
-<p align="center">  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1100&lines=Specialising+In+Building+Scalable,+Data+Driven+Web+,+Desktop+and+Mobile+Applications;"></a></p>
+<p align="center">  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1100&lines=Specialising+In+Building+Robust+and+Scalable,+Data+Driven+Web+,+Desktop+and+Mobile+Applications;"></a></p>
 
 🔭 I'm currently sharpening my coding and problem solving skills through consistent practice and tackling of real world challenges
   
