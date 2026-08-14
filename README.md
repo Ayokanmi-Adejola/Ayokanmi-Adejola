@@ -2,7 +2,7 @@
 
 <!-- Animation Typing -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=Specialising+In+End+To+End+MERN+Stack+Development;To+Build+Scalable+Data+Driven;Web+,+Desktop+and+Mobile+Applications;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=600&lines=Specialising+In+End+To+End+MERN+Stack+Development;To+Build+Scalable+Data+Driven;Web+,+Desktop+and+Mobile+Applications;"></a>
 </p>
 <!-- Animation Typing: END -->
 
