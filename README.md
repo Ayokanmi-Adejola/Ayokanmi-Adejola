@@ -1,11 +1,11 @@
 *<h1 align="center"><img src="hullo.gif" width=51>Hi, I'm Ayokanmi Adejola</h1>*
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1100&lines=I+Specialise+In+Building+Robust,+Scalable,+Data+Driven+Web,+Desktop+and+Mobile+Applications.;"></a></p>
 
-🔭 I'm currently sharpening my coding and problem solving skills through consistent practice and tackling of real world challenges.
+🔭 I'm currently sharpening my coding and problem solving skills through consistent practice and tackling of real world challenges;
   
-👥 I'm open to collaborating on innovative projects that aim to solve real world challenges and push the boundaries of technology.
+👥 I'm open to collaborating on innovative projects that aim to solve real world challenges and push the boundaries of technology;
   
-🌱 I'm continuously exploring latest tools, frameworks and technologies to stay at the forefront of the ever evolving tech landscape.
+🌱 I'm continuously exploring latest tools, frameworks and technologies to stay at the forefront of the ever evolving tech landscape;
   
 ### 🛠️ My Tech Stack & Tools
 <p align="left"> 
