@@ -7,7 +7,7 @@
   
 *🌱 I'm continuously exploring latest tools, frameworks and technologies to stay at the forefront of the ever evolving tech landscape.*
   
-### 🛠️ My Tech Stack & Tools
+### 🛠️ *My Tech Stack & Tools*
 
 <p align="center"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
